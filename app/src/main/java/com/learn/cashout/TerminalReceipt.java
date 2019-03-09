@@ -1,3 +1,5 @@
+package com.learn.cashout;
+
 public class TerminalReceipt {
     int Debit;
     int Visa;
